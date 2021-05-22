@@ -27,7 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-## What You need to install after created your angular or if app exist add the the below liberies
+## What You need to install after creating your angular or if app exist add the the below liberies
 
 1. npm install jspdf
 
